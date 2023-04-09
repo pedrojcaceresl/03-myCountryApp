@@ -1,4 +1,15 @@
-# 03MyCountry
+# My Country App
+
+This is a project that allows you to search for countries.
+- By Country
+  - Here I've implemented a suggestion box feature. 
+- By Region
+- By Capital City
+- Also allows you to see the detail of the country you have selected.
+
+I made this project to practice some important angular concepts. I used the angular routes, modules, components, activated routes, some RxJS operators, Observables, Subjects, external API consumption through services, interfaces, bootstrap, and animateCSS, good practices and more.
+
+The demo of the app is available here: https://micountryapp.netlify.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
